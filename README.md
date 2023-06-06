@@ -1,0 +1,3 @@
+- 👋 @LucasNunesFerreira
+- 👀 Estudante do IFC kk
+- 🌱 Prefiro Front End
